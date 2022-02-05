@@ -40,8 +40,27 @@ Para usar o bloco de Andar em Centímetros você deve ter realizado pelo menos u
 
 
 ## Exemplos
+### Exemplo 1
 <p align="center">
-    <img src="./Images/Exemplos/AndarCM1.png" alt="Exemplo do código de andar em cm"></img>
+    <img src="./Assets/Exemplos/AndarCM/Exemplo1/Bloco.png" alt="Exemplo do código de andar em cm"></img>
 </p>
 
 Anda 30 centímetros para frente na metade da velocidade máxima, tentando sempre se manter reto em 0 graus em relação a direção inicial.
+
+<p align="center">
+    <img src="Assets/Exemplos/AndarCM/Exemplo1/Demo.gif" alt="Demonstração" width="31%"></img>
+    <img src="Assets/Exemplos/AndarCM/Exemplo1/Sensores.gif" alt="Leituras dos sensores" width="58%"></img> 
+</p>
+
+---
+### Exemplo 2
+<p align="center">
+    <img src="./Assets/Exemplos/AndarCM/Exemplo2/Bloco.png" alt="Exemplo do código de andar em cm"></img>
+</p>
+
+Anda 55 centímetros para trás com 40% da velocidade máxima, tentando sempre se manter a 90 graus da direção inicial
+
+<p align="center">
+    <img src="Assets/Exemplos/AndarCM/Exemplo2/Demo.gif" alt="Demonstração" width="31%"></img>
+    <img src="Assets/Exemplos/AndarCM/Exemplo2/Sensores.gif" alt="Leituras dos sensores" width="58%"></img> 
+</p>

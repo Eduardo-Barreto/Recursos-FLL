@@ -5,7 +5,7 @@ Esse arquivo apresenta todas as configurações necessárias para o uso das prog
 Todos os blocos de movimentação do código estão configurados para usar os motores conectados nas portas **B e C** do brick ou hub, então você deve inicializá-los conforme o exemplo abaixo:
 
 <p align="center">
-    <img src="./Images/Requisitos/DefinirMotoresMovimento.png" alt="Como definir motores de movimento"></img>
+    <img src="./Assets/Requisitos/DefinirMotoresMovimento.png" alt="Como definir motores de movimento"></img>
 </p>
 
 > Note: só é necessário realizar essa configuração **uma vez**.
@@ -16,7 +16,7 @@ A circunferência da roda é um valor utilizado para calcular uma distância em 
 Você deve configurar o valor de acordo com a roda que está utilizando no seu robô, conforme o exemplo abaixo da roda padrão do kit educacional do EV3 (45544):
 
 <p align="center">
-    <img src="./Images/Requisitos/DefinirCircunferenciaRoda.png" alt="Como definir a circunferência da roda"></img>
+    <img src="./Assets/Requisitos/DefinirCircunferenciaRoda.png" alt="Como definir a circunferência da roda"></img>
 </p>
 
 > Note: só é necessário realizar essa configuração **uma vez**.
@@ -29,7 +29,7 @@ O valor do KP (também chamado de **"Constante proporcional"** ou **"Fator de co
 Você deve configurar o seu valor de acordo com o seu robô, conforme o exemplo abaixo:
 
 <p align="center">
-    <img src="./Images/Requisitos/DefinirKP.png" alt="Como definir o KP"></img>
+    <img src="./Assets/Requisitos/DefinirKP.png" alt="Como definir o KP"></img>
 </p>
 
 Encontrar o KP ideal para o seu robô pode ser uma tarefa complicada, mas em geral basta analisar seus movimentos e seguir os seguintes passos:
@@ -51,11 +51,11 @@ O tipo de parada é o que define o comportamento do robô quando ele finaliza se
 Você deve configurar o seu tipo de parada conforme o exemplo abaixo:
 
 <p align="center">
-    <img src="./Images/Requisitos/DefinirTipoParada.png" alt="Como definir o tipo de parada"></img>
+    <img src="./Assets/Requisitos/DefinirTipoParada.png" alt="Como definir o tipo de parada"></img>
 </p>
 
 > Note: só é necessário realizar essa configuração **uma vez**, ou sempre que desejar usar um valor alternativo, como com um anexo, trajeto ou uma saída específica.
 
 <!-- <p align="center">
-    <img src="./Images/Requisitos/" alt="Como "></img>
+    <img src="./Assets/Requisitos/" alt="Como "></img>
 </p> -->
