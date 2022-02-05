@@ -2,6 +2,11 @@
 Base de recursos de programação para a FLL
 
 # Andar em CM
+
+<p align="center">
+    <img src="./Assets/Exemplos/AndarCM/Bloco.png" alt="Bloco de andar em cm"></img>
+</p>
+
 ## Uso
 
 ### Requisitos
